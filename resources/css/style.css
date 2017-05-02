@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  color: gray;
+  font-size: 21px;
+  text-align: center;
+  padding: 50px;
+  max-width: 1200px;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+a {
+  text-decoration: underline;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+img, .video {
+  display: block;
+  margin: 20px auto;
+}
+
+.video {
+  max-width: 400px;
+}
+
+.tent {
+  max-width: 800px;
+}
+
+.phone {
+  max-width: 150px;
+}
+
+.copyright {
+  text-align: right;
+}
